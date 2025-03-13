@@ -1,0 +1,590 @@
+[
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build",
+  "command": "/usr/bin/c++  -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes -I/home/serial/Documents/c++/gitrep/build/_deps/nlohmann_json-src/include -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -o CMakeFiles/gitrep.dir/src/main.cpp.o -c /home/serial/Documents/c++/gitrep/src/main.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/src/main.cpp",
+  "output": "CMakeFiles/gitrep.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/accept_encoding.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/accept_encoding.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/accept_encoding.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/accept_encoding.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/async.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/async.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/async.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/async.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/auth.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/auth.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/auth.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/auth.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/bearer.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/bearer.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/bearer.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/bearer.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/callback.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/callback.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/callback.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/callback.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/cert_info.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cert_info.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cert_info.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cert_info.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/cookies.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cookies.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cookies.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cookies.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/cprtypes.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cprtypes.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/cprtypes.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/cprtypes.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/curl_container.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curl_container.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curl_container.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curl_container.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/curlholder.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curlholder.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curlholder.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlholder.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/error.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/error.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/error.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/error.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/file.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/file.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/file.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/file.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/multipart.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/multipart.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/multipart.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/multipart.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/parameters.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/parameters.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/parameters.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/parameters.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/payload.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/payload.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/payload.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/payload.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/proxies.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/proxies.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/proxies.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxies.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/proxyauth.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/proxyauth.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/proxyauth.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/proxyauth.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/session.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/session.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/session.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/session.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/threadpool.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/threadpool.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/threadpool.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/threadpool.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/timeout.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/timeout.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/timeout.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/timeout.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/unix_socket.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/unix_socket.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/unix_socket.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/unix_socket.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/util.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/util.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/util.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/util.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/response.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/response.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/response.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/response.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/redirect.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/redirect.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/redirect.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/redirect.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/interceptor.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/interceptor.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/interceptor.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/interceptor.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/ssl_ctx.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/ssl_ctx.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/ssl_ctx.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/ssl_ctx.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/curlmultiholder.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curlmultiholder.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/curlmultiholder.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/curlmultiholder.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr",
+  "command": "/usr/bin/c++ -DCPR_ENABLE_CURL_HTTP_ONLY -DCPR_ENABLE_SSL -DCPR_USE_SYSTEM_CURL -DOPENSSL_BACKEND_USED -Dcpr_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/include -I/home/serial/Documents/c++/gitrep/build/_deps/cpr-build/cpr_generated_includes  -Wall -Wextra -Wpedantic -Werror -g -std=gnu++17 -fPIC -o CMakeFiles/cpr.dir/multiperform.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/multiperform.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/cpr-src/cpr/multiperform.cpp",
+  "output": "_deps/cpr-build/cpr/CMakeFiles/cpr.dir/multiperform.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/box.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/box.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/color.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/color_info.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/color_info.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/screen.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/screen.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/string.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/string.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dscreen_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/screen/terminal.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/screen.dir/src/ftxui/screen/terminal.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/automerge.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/automerge.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/blink.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/blink.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/bold.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/bold.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/hyperlink.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/hyperlink.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/border.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/border.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/box_helper.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/box_helper.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/canvas.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/canvas.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/clear_under.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/clear_under.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/color.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/color.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/composite_decorator.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/composite_decorator.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/dbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/dim.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/dim.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flex.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flex.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox_config.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_config.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/flexbox_helper.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/flexbox_helper.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/focus.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/focus.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/frame.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/frame.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/gauge.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gauge.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/graph.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/graph.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/gridbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/gridbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/hbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/hbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/inverted.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/inverted.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/linear_gradient.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/linear_gradient.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/node.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/node_decorator.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/node_decorator.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/paragraph.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/paragraph.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/reflect.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/reflect.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/scroll_indicator.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/scroll_indicator.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/separator.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/separator.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/size.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/size.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/spinner.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/spinner.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/strikethrough.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/strikethrough.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/table.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/table.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/text.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/text.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/underlined.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/underlined_double.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/underlined_double.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/util.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/util.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Ddom_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/dom/vbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/dom.dir/src/ftxui/dom/vbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/animation.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/animation.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/button.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/button.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/button.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/catch_event.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/catch_event.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/checkbox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/checkbox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/collapsible.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/collapsible.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/component.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/component_options.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/component_options.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/container.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/container.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/container.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/dropdown.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/dropdown.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/event.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/event.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/event.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/hoverable.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/hoverable.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/input.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/input.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/input.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/loop.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/loop.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/maybe.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/maybe.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/menu.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/menu.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/modal.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/modal.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/radiobox.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/radiobox.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/renderer.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/renderer.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/resizable_split.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/resizable_split.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/screen_interactive.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/screen_interactive.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/slider.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/slider.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/terminal_input_parser.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/terminal_input_parser.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/util.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/util.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/util.cpp.o"
+},
+{
+  "directory": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-build",
+  "command": "/usr/bin/c++ -Dcomponent_EXPORTS -I/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src -isystem /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/include -g -std=gnu++17 -fPIC -o CMakeFiles/component.dir/src/ftxui/component/window.cpp.o -c /home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/window.cpp",
+  "file": "/home/serial/Documents/c++/gitrep/build/_deps/ftxui-src/src/ftxui/component/window.cpp",
+  "output": "_deps/ftxui-build/CMakeFiles/component.dir/src/ftxui/component/window.cpp.o"
+}
+]

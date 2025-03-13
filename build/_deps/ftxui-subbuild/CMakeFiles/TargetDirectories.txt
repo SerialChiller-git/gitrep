@@ -1,0 +1,3 @@
+/home/serial/Documents/c++/gitrep/build/_deps/ftxui-subbuild/CMakeFiles/ftxui-populate.dir
+/home/serial/Documents/c++/gitrep/build/_deps/ftxui-subbuild/CMakeFiles/edit_cache.dir
+/home/serial/Documents/c++/gitrep/build/_deps/ftxui-subbuild/CMakeFiles/rebuild_cache.dir
